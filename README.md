@@ -29,7 +29,7 @@ Web designer and passionate developer, creating modern and functional interfaces
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkmoonblast&layout=compact&theme=radical&hide_border=true)
 
-## 🔗 Contact with me
+## Contact with me
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kush_ina)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Darkmoonblast)
