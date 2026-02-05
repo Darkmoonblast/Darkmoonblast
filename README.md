@@ -5,10 +5,13 @@ Web designer and passionate developer, creating modern and functional interfaces
 
 ## Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Photopea](https://img.shields.io/badge/Photopea-1FA1FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-0078CC?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Craftum](https://img.shields.io/badge/Craftum-6BD5F6?style=for-the-badge&logoColor=white)
 ![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white)
 ![Createam](https://img.shields.io/badge/Createam-FF6B35?style=for-the-badge&logo=createme&logoColor=white)
 
