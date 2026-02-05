@@ -19,6 +19,10 @@ Web designer and passionate developer, creating modern and functional interfaces
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Portfolio
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/2st5RehfS)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/6ad759a5)
+
 ## GitHub statistics
 
 ![Darkmoonblast's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkmoonblast&show_icons=true&theme=radical&hide_border=true)
@@ -30,4 +34,3 @@ Web designer and passionate developer, creating modern and functional interfaces
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kush_ina)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Darkmoonblast)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darkmoonblast)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/2st5RehfS)
