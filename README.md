@@ -16,6 +16,8 @@ Web designer and passionate developer, creating modern and functional interfaces
 ![Craftum](https://img.shields.io/badge/Craftum-6BD5F6?style=for-the-badge&logoColor=white)
 ![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tilda&logoColor=white)
 ![Createam](https://img.shields.io/badge/Createam-FF6B35?style=for-the-badge&logo=createme&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
+![Twine](https://img.shields.io/badge/Twine-444444?style=for-the-badge&logo=twine&logoColor=white)
 
 ## Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -23,8 +25,6 @@ Web designer and passionate developer, creating modern and functional interfaces
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
-![Twine](https://img.shields.io/badge/Twine-444444?style=for-the-badge&logo=twine&logoColor=white)
 
 ## Portfolio
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/2st5RehfS)
