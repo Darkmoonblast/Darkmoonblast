@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/fb/0f/c1/fb0fc1388ded9e9a3b14606d3c22678d.jpg" alt="Баннер" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
+<img src="https://i.pinimg.com/736x/a4/57/d3/a457d34be912189c34355b1160a16433.jpg" alt="Баннер" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 
 # Hello, I'm Anna!
 
