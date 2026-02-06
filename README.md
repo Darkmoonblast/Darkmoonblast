@@ -18,6 +18,7 @@ Web designer and passionate developer, creating modern and functional interfaces
 ![Createam](https://img.shields.io/badge/Createam-FF6B35?style=for-the-badge&logo=createme&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
 ![Twine](https://img.shields.io/badge/Twine-444444?style=for-the-badge&logo=twine&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 ## Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
